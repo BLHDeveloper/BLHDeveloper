@@ -110,6 +110,9 @@
 
 ###
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm0zazdwYXIxZm5pdTk0Y2VwMmZyaTQ2ZjNpOWY0b3F3b3MwODhzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oGRFIzJeShJy3mr2o/giphy.gif" alt="Snake animation" />
+ <div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9iN2llYjB2dDJ5OTNyNG1zNjA0bHJxN2M5M3k4dDEyd2c2bmNvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpF9R9M1PHN5e5liSx/giphy.gif"  />
+</div>
+
 
 ###
