@@ -106,7 +106,7 @@
 
 ###
 
-<h3 align="left">🔥   Mes stats :</h3>
+<!-- <h3 align="left">🔥   Mes stats :</h3> -->
 
 ###
 
