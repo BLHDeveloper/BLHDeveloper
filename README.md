@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I am a passionate developer, I went back to school to improve my skills in computer programming.</p>
+<p align="left">Welcome to my GitHub profile! I am a passionate developer who reprising his studies to perfect his competencies in program information. Decouvrez dessous mes projets et compétences 🔥</p>
 
 ###
 
@@ -24,7 +24,10 @@
 
 ###
 
-<p align="left"><br>- 🔭 I am looking for an apprenticeship contract.<br>- 📚 I am studying in France, and I am moving towards a career in software engineering.<br>- ⚡ In my free time, I like to learn about new technologies.</p>
+<p align="left">
+A recent computer science graduate with a passion for developing innovative solutions, I excel in designing and maintaining responsive websites. My expertise lies in transforming designs into fully functional websites and crafting dynamic, engaging interfaces. I prioritize writing clean, optimized code while leveraging advanced development tools and techniques. With a rigorous and dynamic work ethic, I integrate seamlessly into teams to tackle complex challenges and achieve defined goals. Driven by a commitment to continuous learning, I am eager to contribute actively to the success of ambitious projects.
+
+</p>
 
 ###
 
