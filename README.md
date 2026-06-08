@@ -57,12 +57,8 @@ Mon approche avec **Devilla Studio** est de transformer des besoins complexes en
 <br/>
 
 <div align="center">
-  <!-- The animated snake SVG from the GitHub action -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BLHDeveloper/BLHDeveloper/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BLHDeveloper/BLHDeveloper/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BLHDeveloper/BLHDeveloper/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <!-- GitHub Activity Graph Animated SVG -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLHDeveloper&bg_color=0a0a0a&color=C8FF00&line=C8FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
