@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://www.devilla.tech/">
-    <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=24&duration=3000&pause=1000&color=C8FF00&center=true&vCenter=true&width=600&lines=Combinant+design+éditorial...;...et+ingénierie+de+pointe.;Création+de+sites+web+sur-mesure." alt="Devilla Studio Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=24&duration=3000&pause=1000&color=C8FF00&center=true&vCenter=true&width=600&lines=Combinant+design+%C3%A9ditorial...;...et+ing%C3%A9nierie+de+pointe.;Cr%C3%A9ation+de+sites+web+sur-mesure." alt="Devilla Studio Typing SVG" />
   </a>
   <br />
   <p align="center">
@@ -48,7 +48,7 @@ Mon approche avec **Devilla Studio** est de transformer des besoins complexes en
 
 <div align="center">
   <!-- GitHub Stats Animated SVG -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BLHDeveloper&show_icons=true&hide_border=true&title_color=C8FF00&icon_color=C8FF00&text_color=ffffff&bg_color=0a0a0a" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BLHDeveloper&show_icons=true&hide_border=true&title_color=C8FF00&icon_color=C8FF00&text_color=ffffff&bg_color=0a0a0a" alt="GitHub Stats" width="48%" />
   
   <!-- GitHub Streak Animated SVG -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLHDeveloper&hide_border=true&stroke=0000&background=0a0a0a&ring=C8FF00&fire=C8FF00&currStreakNum=ffffff&currStreakLabel=C8FF00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%" />
@@ -77,11 +77,3 @@ Une plateforme SaaS multi-tenant complète destinée à la gestion des clubs de 
 - **Tech :** React, Node.js, MySQL
 - **Intégrations :** **Stripe** (gestion des abonnements), **Socket.io** (messagerie en temps réel).
 - **Focus :** Architecture scalable et haute disponibilité.
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&animation=twinkling" />
-</div>
