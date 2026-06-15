@@ -12,7 +12,7 @@
   <!-- c. Academic badges & d. Location badge -->
   <p align="center">
     <img src="https://img.shields.io/badge/École_42-0a0a0a?style=for-the-badge&logo=42&logoColor=C8FF00" alt="Ecole 42" />
-    <img src="https://img.shields.io/badge/Master_in_CS-0a0a0a?style=for-the-badge&logo=proquest&logoColor=C8FF00" alt="Master in I2A" />
+    <img src="https://img.shields.io/badge/Master_in_I2A-0a0a0a?style=for-the-badge&logo=proquest&logoColor=C8FF00" alt="Master in I2A" />
     <img src="https://img.shields.io/badge/Paris,_France-0a0a0a?style=for-the-badge&logo=googlemaps&logoColor=C8FF00" alt="Paris Location" />
   </p>
 
