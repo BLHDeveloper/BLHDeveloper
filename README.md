@@ -1,25 +1,40 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=DEVILLA%20STUDIO&fontSize=70&fontAlignY=35&desc=Premium%20Digital%20Experiences&descAlignY=55&descSize=20&fontColor=C8FF00&animation=twinkling" />
-</div>
+  <!-- a. Capsule Render wave banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=1e1b4b,4c1d95,7c3aed,a78bfa&section=header&text=Abdelillah%20Belhadj&fontSize=55&fontAlignY=35&desc=Enterprise-Grade%20Software%20Engineer%20%7C%20Founder%20%40%20Devilla%20Studio&descAlignY=55&descSize=18&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 
-<div align="center">
+  <!-- b. Typing SVG animation -->
   <a href="https://www.devilla.tech/">
-    <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=24&duration=3000&pause=1000&color=C8FF00&center=true&vCenter=true&width=600&lines=Combinant+design+%C3%A9ditorial...;...et+ing%C3%A9nierie+de+pointe.;Cr%C3%A9ation+de+sites+web+sur-mesure." alt="Devilla Studio Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+enterprise-grade+scalable+solutions.;Architecting+premium+digital+experiences.;Transforming+complex+ideas+into+elegant+code." alt="Typing SVG" />
   </a>
-  <br />
+  
+  <br/><br/>
+
+  <!-- c. Academic badges & d. Location badge -->
   <p align="center">
-    <a href="https://www.devilla.tech/">
-      <img src="https://img.shields.io/badge/Site_Web-0a0a0a?style=for-the-badge&logo=vercel&logoColor=C8FF00" alt="Website" />
-    </a>
-    <a href="https://www.linkedin.com/in/abdelillah-belhadj-9127b2280">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+    <img src="https://img.shields.io/badge/École_42-0a0a0a?style=for-the-badge&logo=42&logoColor=A78BFA" alt="Ecole 42" />
+    <img src="https://img.shields.io/badge/Master_in_CS-0a0a0a?style=for-the-badge&logo=proquest&logoColor=A78BFA" alt="Master in CS" />
+    <img src="https://img.shields.io/badge/Paris,_France-0a0a0a?style=for-the-badge&logo=googlemaps&logoColor=A78BFA" alt="Paris Location" />
+  </p>
+
+  <!-- e. Portfolio to h. GitHub buttons -->
+  <p align="center">
+    <a href="https://www.devilla.tech/"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/abdelillah-belhadj-9127b2280"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
+    <a href="mailto:contact@devilla.tech"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=minutemailer&logoColor=A78BFA" alt="Email" /></a>
+    <a href="https://github.com/BLHDeveloper"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" /></a>
+  </p>
+
+  <!-- i. Profile views, j. Followers, k. Stars badges -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=BLHDeveloper&label=Profile%20Views&color=0a0a0a&style=for-the-badge&logo=eye&logoColor=A78BFA" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/BLHDeveloper?style=for-the-badge&logo=github&color=0a0a0a&labelColor=0a0a0a&logoColor=A78BFA" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/BLHDeveloper/BLHDeveloper?style=for-the-badge&logo=apachespark&color=0a0a0a&labelColor=0a0a0a&logoColor=A78BFA" alt="Stars" />
   </p>
 </div>
 
 <br/>
 
-## ✦ Vision & Expertise
+## ✦ Executive Summary
 
 Je suis **Abdelillah**, fondateur de **[Devilla Studio](https://www.devilla.tech/)** et architecte logiciel. Fort de ma formation à l'**École 42** et de mon Master en Informatique Avancée, je conçois des solutions numériques alliant robustesse technique et excellence visuelle.
 
@@ -27,49 +42,86 @@ Mon approche avec **Devilla Studio** est de transformer des besoins complexes en
 
 <br/>
 
-## ✦ Stack Technologique
+## ✦ Engineering Expertise & Tech Stack
 
 <div align="center">
-  <h3>Frontend & Design</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma&theme=dark" />
-  <br/><br/>
-
-  <h3>Backend & Databases</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,php,mysql,mongodb,postman&theme=dark" />
-  <br/><br/>
-
-  <h3>DevOps & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,debian,vscode,npm,babel&theme=dark" />
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>Frontend Architecture</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,figma&theme=dark" />
+        <br><br>
+        <p>Building responsive, accessible, and highly optimized user interfaces with modern web technologies.</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>Backend & Systems</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,java,php,mysql,mongodb&theme=dark" />
+        <br><br>
+        <p>Designing scalable microservices, robust APIs, and high-performance database architectures.</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>DevOps & Cloud</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=docker,git,linux,debian,githubactions&theme=dark" />
+        <br><br>
+        <p>Implementing CI/CD pipelines, containerization, and reliable infrastructure deployments.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-## ✦ Activité & Statistiques
+## ✦ Featured Enterprise Projects
+
+<details>
+  <summary><b>🏢 Devilla Studio Platform</b> — <i>High-Performance Digital Agency Showcase</i></summary>
+  <br>
+  
+  > Vitrine officielle du studio. Un condensé d'animations fluides, de design minimaliste et d'optimisation poussée (SEO & Web Vitals), reflétant notre niveau d'exigence.
+  
+  - **Architecture:** Next.js, TypeScript, TailwindCSS
+  - **Key Features:** Server-Side Rendering (SSR), Framer Motion animations, 100/100 Lighthouse performance score.
+  - **Link:** [devilla.tech](https://www.devilla.tech/)
+
+</details>
+
+<details>
+  <summary><b>⚽ CoachPro SaaS</b> — <i>Multi-Tenant Management Platform</i></summary>
+  <br>
+  
+  > Une plateforme SaaS multi-tenant complète destinée à la gestion des clubs de football.
+  
+  - **Architecture:** React, Node.js, MySQL, Redis
+  - **Integrations:** Stripe for subscription billing, Socket.io for real-time messaging.
+  - **Focus:** Scalable architecture, high availability, and real-time data synchronization.
+
+</details>
+
+<br/>
+
+## ✦ Analytics & Contributions
 
 <div align="center">
   <!-- GitHub Stats Animated SVG -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BLHDeveloper&show_icons=true&hide_border=true&title_color=C8FF00&icon_color=C8FF00&text_color=ffffff&bg_color=0a0a0a" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BLHDeveloper&show_icons=true&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&bg_color=0a0a0a" alt="GitHub Stats" width="48%" />
   
   <!-- GitHub Streak Animated SVG -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLHDeveloper&hide_border=true&stroke=0000&background=0a0a0a&ring=C8FF00&fire=C8FF00&currStreakNum=ffffff&currStreakLabel=C8FF00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLHDeveloper&hide_border=true&stroke=0000&background=0a0a0a&ring=a78bfa&fire=a78bfa&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- GitHub Activity Graph Animated SVG -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLHDeveloper&bg_color=0a0a0a&color=C8FF00&line=C8FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLHDeveloper&bg_color=0a0a0a&color=a78bfa&line=a78bfa&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
 
-## ✦ Projets Phares
-
-### 🏢 [Devilla Studio - devilla.tech](https://www.devilla.tech/)
-Vitrine officielle du studio. Un condensé d'animations fluides, de design minimaliste et d'optimisation poussée (SEO & Web Vitals), reflétant notre niveau d'exigence.
-
-### ⚽ CoachPro (SaaS)
-Une plateforme SaaS multi-tenant complète destinée à la gestion des clubs de football.
-- **Tech :** React, Node.js, MySQL
-- **Intégrations :** **Stripe** (gestion des abonnements), **Socket.io** (messagerie en temps réel).
-- **Focus :** Architecture scalable et haute disponibilité.
+<div align="center">
+  <!-- GitHub Contribution Grid Snake -->
+  <img src="https://raw.githubusercontent.com/BLHDeveloper/BLHDeveloper/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#a78bfa" alt="Snake animation" width="100%" />
+</div>
