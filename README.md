@@ -109,7 +109,7 @@ Mon approche avec **Devilla Studio** est de transformer des besoins complexes en
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BLHDeveloper&show_icons=true&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&bg_color=0a0a0a" alt="GitHub Stats" width="48%" />
   
   <!-- GitHub Streak Animated SVG -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLHDeveloper&hide_border=true&stroke=0000&background=0a0a0a&ring=a78bfa&fire=a78bfa&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=BLHDeveloper&hide_border=true&stroke=0000&background=0a0a0a&ring=a78bfa&fire=a78bfa&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
@@ -123,5 +123,5 @@ Mon approche avec **Devilla Studio** est de transformer des besoins complexes en
 
 <div align="center">
   <!-- GitHub Contribution Grid Snake -->
-  <img src="https://raw.githubusercontent.com/BLHDeveloper/BLHDeveloper/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#a78bfa" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/BLHDeveloper/BLHDeveloper/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
