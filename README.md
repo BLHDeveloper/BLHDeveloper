@@ -109,7 +109,7 @@ Mon approche avec **Devilla Studio** est de transformer des besoins complexes en
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BLHDeveloper&show_icons=true&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&bg_color=0a0a0a" alt="GitHub Stats" width="48%" />
   
   <!-- GitHub Streak Animated SVG -->
-  <img src="https://streak-stats.demolab.com/?user=BLHDeveloper&hide_border=true&stroke=0000&background=0a0a0a&ring=a78bfa&fire=a78bfa&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%" />
+  <img src="https://raw.githubusercontent.com/BLHDeveloper/BLHDeveloper/output/streak-stats.svg" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
