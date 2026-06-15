@@ -1,6 +1,6 @@
 <div align="center">
   <!-- a. Capsule Render wave banner -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=Abdelillah%20Belhadj&fontSize=55&fontAlignY=35&desc=Enterprise-Grade%20Software%20Engineer%20%7C%20Founder%20%40%20Devilla&descAlignY=55&descSize=18&fontColor=f5f5f0&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Abdelillah%20Belhadj&fontSize=55&fontAlignY=40&desc=Enterprise-Grade%20Software%20Engineer%20%7C%20Founder%20%40%20Devilla&descAlignY=75&descSize=18&fontColor=f5f5f0&animation=twinkling" width="100%" alt="Header Banner" />
 
   <!-- b. Typing SVG animation -->
   <a href="https://www.devilla.tech/">
