@@ -40,8 +40,13 @@ jobs:
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          options: user=${{ github.repository_owner }}&hide_border=true&stroke=000000&background=0a0a0a&ring=a78bfa&fire=a78bfa&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=ffffff&sideLabels=ffffff&dates=ffffff
-          path: dist/streak-stats.svg
+          options: 'user=${{ github.repository_owner }}&hide_border=true&stroke=000000&background=0a0a0a&ring=a78bfa&fire=a78bfa&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=ffffff&sideLabels=ffffff&dates=ffffff'
+          path: streak-stats.svg
+
+      - name: Move streak stats to dist
+        run: |
+          mkdir -p dist
+          sudo mv streak-stats.svg dist/ || mv streak-stats.svg dist/
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
