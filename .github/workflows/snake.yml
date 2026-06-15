@@ -37,18 +37,9 @@ jobs:
       - name: Generate Streak Stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          github_user: ${{ github.repository_owner }}
-          hide_border: true
-          background: "0a0a0a"
-          ring: "a78bfa"
-          fire: "a78bfa"
-          currStreakNum: "ffffff"
-          currStreakLabel: "a78bfa"
-          sideNums: "ffffff"
-          sideLabels: "ffffff"
-          dates: "ffffff"
-          stroke: "000000"
-          filepath: dist/streak-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: user=${{ github.repository_owner }}&hide_border=true&stroke=000000&background=0a0a0a&ring=a78bfa&fire=a78bfa&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=ffffff&sideLabels=ffffff&dates=ffffff
+          path: dist/streak-stats.svg
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
